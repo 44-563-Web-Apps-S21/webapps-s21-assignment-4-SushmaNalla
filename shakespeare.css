@@ -50,8 +50,8 @@ ul.navbar-horizontal {
     }
 ul.navbar-horizontal li {
     float:left; 
-    color:rgb(86, 75, 112);
-    background-color:rgb(211, 211, 211);
+    color:blue;
+    background-color : pink
     }
 ul.navbar-horizontal a {
     display:block;
@@ -61,7 +61,6 @@ ul.navbar-horizontal a:hover {
 background-color: rgb(235, 21, 21);
 color:white;
 }
-  
 
 
   
