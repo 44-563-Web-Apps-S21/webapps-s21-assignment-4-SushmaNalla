@@ -1,0 +1,28 @@
+.speech{
+    font-family: Times, serif;
+    font-size: 18px;
+    color:black;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color:black;
+}
+.stage-direction{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:lightblue;
+    background-color: lightpink;
+}
+.stage-direction:hover{
+    background-color: lightpink;
+    color:lightseagreen;
+}
+.ARCHIDAMUS{
+    color:black;
+}
+.CAMILLO{
+    color:black;
+}
+
+  
