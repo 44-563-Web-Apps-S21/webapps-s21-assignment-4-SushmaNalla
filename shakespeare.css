@@ -1,28 +1,29 @@
 .speech{
-    font-family: Times, serif;
-    font-size: 18px;
-    color:black;
+  font-family: 'Times New Roman', Times, serif;  
+  font-size: 18px;
+  color: black;
 }
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-size: 12px;
-    color:black;
+    color: black;
 }
 .stage-direction{
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
-    color:lightblue;
-    background-color: lightpink;
+    color: lightgreen;
+    background-color: pink;
 }
 .stage-direction:hover{
-    background-color: lightpink;
-    color:lightseagreen;
+    background-color: pink;
+    color: seagreen;
 }
 .ARCHIDAMUS{
-    color:black;
+    color: black;
 }
 .CAMILLO{
-    color:black;
+    color: black;
 }
+
 
   
